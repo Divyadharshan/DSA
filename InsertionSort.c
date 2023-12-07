@@ -1,3 +1,5 @@
+/* Time Complexity O(n^2) */
+
 #include<stdio.h>
 void print(int arr[], int n){ 
     for(int i=0; i<n; i++){ 
