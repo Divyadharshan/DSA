@@ -1,3 +1,5 @@
+/* Time Complexity O(n^2) */
+
 #include<stdio.h>
 void SelectionSort(int a[], int n){
     int i, j, min, temp;
