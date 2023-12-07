@@ -1,3 +1,5 @@
+/* Time Complexity O(n*logn) */
+
 #include <stdio.h>
 void MergeSort(int arr[], int left, int right){
     if(left < right)
